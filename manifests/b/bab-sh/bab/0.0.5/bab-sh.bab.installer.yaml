@@ -12,7 +12,7 @@ Installers:
       - RelativeFilePath: bab.exe
         PortableCommandAlias: bab
     InstallerUrl: https://github.com/bab-sh/bab/releases/download/v0.0.5/bab_0.0.5_Windows_x86_64.zip
-    InstallerSha256: 3c7aa64afe3c0315624dc9753a8b64e445d89c11b50971426bddc172168006e8
+    InstallerSha256: d66084867910c64175ec714ed64d83522145a8dec53e57c707b05861cfdb33c1
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer
 ManifestVersion: 1.10.0
