@@ -16,6 +16,8 @@ Tags:
   - developer-tools
 ReleaseNotes: |
   ## Changelog
+  * 4bdfefb95a8ec7bd34641f2329c4cd63c6715ad3 Update .goreleaser.yaml
+  * 3a9daa3627346ec5bb0077f6169994dd919a22b4 Update .goreleaser.yaml
   * fb4ed1abac946d5c03012d7f02e28e1c2454abbd SNAPCRAFT_STORE_CREDENTIALS
   * c902f65e28b6ab41eac82defe1fa8e448e0c145d Update release.yaml
   * f235f6adbf2ac278c9dd288b92cd9a9a44f6fc78 Update release.yaml
