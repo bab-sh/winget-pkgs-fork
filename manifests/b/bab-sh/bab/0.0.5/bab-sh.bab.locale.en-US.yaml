@@ -16,6 +16,7 @@ Tags:
   - developer-tools
 ReleaseNotes: |
   ## Changelog
+  * fb4ed1abac946d5c03012d7f02e28e1c2454abbd SNAPCRAFT_STORE_CREDENTIALS
   * c902f65e28b6ab41eac82defe1fa8e448e0c145d Update release.yaml
   * f235f6adbf2ac278c9dd288b92cd9a9a44f6fc78 Update release.yaml
   * 3b2209ed37862be079887de8ae69d999ea5763cf Update .gitignore
